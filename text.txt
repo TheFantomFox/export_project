@@ -1,3 +1,19 @@
 valiki
 Text strashnie
 No to<, chto tut proishodid - eto pisec
+------------------------------------------------
+"Rabota from TFF"
+
+
+namespace TextProgram1
+{
+    class Programm
+         {
+         static void Main (string[] args)
+         }
+
+         
+           Console,WriteLine("Hello, World!");
+           Console.ReadLine()
+         }
+}
